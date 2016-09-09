@@ -2,6 +2,10 @@
 
 Some useful Codeigniter libraries
 
+**Nexmo** - Send text or voice messages using Nexmo API.
+
+**CSV** - Export data as CSV with columns headers
+
 ##1. Nexmo##
 Send text or voice messages using Nexmo API.
 
