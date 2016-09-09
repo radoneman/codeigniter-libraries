@@ -17,7 +17,7 @@ Check is a phone number is from a mobile carier
 Set your Nexmo credentials in config/nexmo.php
 
 ```
-$this->load->library(['service/sms/nexmo']);
+$this->load->library(['nexmo']);
 
 // send_sms
 $response = $this->nexmo->send_sms([
